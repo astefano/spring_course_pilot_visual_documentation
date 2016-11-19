@@ -1,0 +1,10 @@
+SubtopicY10 Object:
+  description: Give motivation for requirements engineering, a taxonomy of requirements, theory presenting architecture, contracts, traceability, Service Thinking with ethodological support.
+  fields:
+    - name: responsible name = Mattias Nyberg 
+      type: string
+    - name: email = mattias.nyberg@scania.com 
+      type: string
+    - name: timing = [5h,7h]
+      type: string
+

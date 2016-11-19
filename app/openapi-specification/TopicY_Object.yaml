@@ -1,0 +1,15 @@
+TopicY Object:
+  description: |
+     topic Y desc again
+  fields:
+    - name: Composable architectures...
+      type: "[SubtopicY0 Object]"
+      description: Composable architectures, behaviours & non-functional properties
+      required: true
+    - name: Integration testing, requirements...
+      type: "[SubtopicY1 Object]"
+      description: Integration testing & assurance, requirements coverage in integrated systems
+      required: true
+    - name: Software architecture evaluation
+      type: string
+      description: Most complex software systems are required to be modifiable and have good performance. They may also need to be secure, interoperable, portable, and reliable among other qualities. How do you know if a software architecture is deficient or at risk relative to its target system qualities? The answer is to conduct an evaluation of it. Responsible  Carlos Fernandez. Timing [30, 50].

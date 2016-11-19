@@ -1,0 +1,10 @@
+SubtopicY01 Object:
+  description: Introduce Maritime Architecture Framework (MAF) and SPES Architecture Modelling. Initiate transfer of expertise in system design from automotive/avionic domain to maritime domain. Model- and component based design, design processes, architecture design along perspectives and abstraction levels for MAF & SPES. 
+  fields:
+    - name: responsible name = Ingo Stierand 
+      type: string
+    - name: email = ingo.stierand@offis.de
+      type: string
+    - name: timing = [30,60]
+      type: string
+

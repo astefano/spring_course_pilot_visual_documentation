@@ -1,0 +1,10 @@
+SubtopicY11 Object:
+  description: Integration testing & assurance, contract based design with focus on timing and safety, proof obligations, analysis methods and tools, requirements coverage in integrated systems, completeness, compatibility, consistency. V&V activities along the design process and traceability in the context of MAS & SPES.
+  fields:
+    - name: responsible name = Ingo Stierand 
+      type: string
+    - name: email = ingo.stierand@offis.de
+      type: string
+    - name: timing = 60
+      type: string
+

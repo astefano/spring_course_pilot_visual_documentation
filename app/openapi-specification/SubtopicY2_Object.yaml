@@ -1,0 +1,11 @@
+SubtopicY2 Object:
+  description: |
+     Most complex software systems are required to be modifiable and have good performance. They may also need to be secure, interoperable, portable, and reliable among other qualities. How do you know if a software architecture is deficient or at risk relative to its target system qualities? The answer is to conduct an evaluation of it.
+  fields:
+    - name: responsible name = Carlos Fernandez
+      type: string
+    - name: email = carlos.fernandez@upm.es
+      type: string
+    - name: timing = [30, 50]
+      type: string
+

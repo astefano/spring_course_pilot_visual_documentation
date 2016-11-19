@@ -1,0 +1,18 @@
+TopicT Object:
+  description: |
+     topic T desc again
+  fields:
+    - name: testing maritime systems
+      type: string
+      description: Give an overview on maritime CPS test methods and techniques such as mCPS testbed. Responsible . Timing .
+      required: true
+    - name: co-sim experiments
+      type: string
+      description: nothing yet. Responsible . Timing .
+      required: true
+    - name: energy efficiency in buildings
+      type: string 
+      description: Reducing energy consumption to minimize the environmental impact can be achieved by means of improving energy efficiency in buildings and other infrastructures. Increasing availability of IoT solutions provide detailed and reliable information, enabling the optimization of energy use. Open-HW and Open-SW facilitate the real implementation and integration of solutions, reducing deployment times and minimizing costs. IP-based communications allow the integration among systems and functionalities upgrade. The objectives are to show the advantages of the use of Open-IoT solution when confronting energy efficiency deployments in buildings and other infrastructures. Solution, common and general description (components, architecture, configuration, etc.) will be graphically introduced. Final deployment and energy reduction results of four different real IoT pilots will be presented. Responsible Guillermo del Campo. Timing [10,20].
+    - name: smart cities
+      type: string 
+      description: nothing yet. Responsible . Timing .

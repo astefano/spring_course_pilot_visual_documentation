@@ -1,0 +1,9 @@
+SubtopicY1 Object:
+  fields:
+    - name: Part I
+      type: string
+      description: Give motivation for requirements engineering, a taxonomy of requirements, theory presenting architecture, contracts, traceability, Service Thinking with ethodological support. Responsible Mattias Nyberg. Timing [5h, 7h]
+    - name: Part II
+      type: string
+      description: Integration testing & assurance, contract based design with focus on timing and safety, proof obligations, analysis methods and tools, requirements coverage in integrated systems, completeness, compatibility, consistency. V&V activities along the design process and traceability in the context of MAS & SPES. Responsible Ingo Stierand. Timing 60.
+

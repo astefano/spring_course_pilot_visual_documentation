@@ -1,0 +1,16 @@
+TopicX Object:
+  description: |
+     topic X desc again
+  fields:
+    - name: Heterogeneity 
+      type: string 
+      description: Hybrid system modelling & co-sim. Provide a (most probably partial & biased) overview of existing techniques for modelling hybrid systems. Present existing techniques for modelling hybrid systems (automata, continuous dataflows...). Present main concepts behind co-sim, limitations as perceived in academia & industry. Responsible FOR + UNEW. Timing [10,20] + x.
+    - name: concurrency
+      type: string
+      description: nothing yet 
+      required: true
+    - name: sensitivity to timing
+      type: string
+      description: nothing yet
+      required: true
+

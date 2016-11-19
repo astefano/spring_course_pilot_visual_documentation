@@ -1,0 +1,11 @@
+SubtopicY00 Object:
+  description: |
+    Will present recent result from the project TRACE. Show integration of components for effective innovation and product evolution, covering: multi-viewed description of CPS based on EAST-ADL, synthesis of both component contracts and the associated runtime services for lifecycle and quality management, anomaly treatment.
+  fields:
+    - name: responsible name = Dejiu Chen
+      type: string
+    - name: email = chen@md.kth.se
+      type: string
+    - name: timing = 60
+      type: string
+

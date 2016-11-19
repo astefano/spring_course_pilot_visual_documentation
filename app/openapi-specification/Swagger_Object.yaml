@@ -1,0 +1,18 @@
+Swagger Object:
+  name: CPS Interoperability 
+  description: |
+    This is the curriculum for the spring course pilot. Goal: what we want to accomplish witin this task is to implement professionals trainings selected in function of industrial needs and of topics related to the centres, their technologies, and the experiments. One of the goals is to advertise the main platforms existing within the centres for growing the user base, for visibility and for longer sustainability. In the long run, such pilots should ideally strive to create a base for CPS Engineering and a learning network as a cross-cutting aspect overarching the other D4.1b subtasks as well.
+  fields:
+    - name: Modelling
+      type: "[TopicX Object]"
+      description: topic X descp
+    - name: Architectures
+      type: "[TopicY Object]"
+      description: topic Y descp
+    - name: Platforms & tools
+      type: "[TopicZ Object]"
+      description: topic Z descp
+    - name: Applications
+      type: "[TopicT Object]"
+      description: topic T descp
+

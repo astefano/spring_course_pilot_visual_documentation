@@ -1,0 +1,15 @@
+TopicZ Object:
+  description: |
+     topic Z desc again
+  fields:
+    - name: Into-CPS
+      type: string
+      description: nothing yet. Responsible . Timing .
+      required: true
+    - name: Interoperability
+      type: string
+      description: This topic discusses an approach to deal with the interoperability of heterogeneous software tools. It introduces a Linked Data approach to tool interoperability, specifically through the OASIS Open Services for Lifecycle Collaboration (OSLC) standard. The tutorial explains the overall concepts, as well as the technical details that underlie this approach. Hands-on experience with these technologies will be gained through the guided development of tool interfaces. The tutorial assumes basic understanding of web technologies and programming skills. The objectives are to understand the basics of Linked Data and its supporting technologies (RDF, RDF Schema, ...), to understand the structure and content of the OSLC standard, and to gain hands-on experience in designing and developing OSLC-based toolchains. Hands-on development tutorial. Responsible Jad El-khoury. Timing 2h lecture + 2h exercises.
+      required: true
+    - name: Scilab, pyFMI,...
+      type: string 
+      description: open source tools for co-sim. Responsible . Timing [10,20].

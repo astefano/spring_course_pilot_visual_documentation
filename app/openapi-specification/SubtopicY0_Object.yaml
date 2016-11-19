@@ -1,0 +1,10 @@
+SubtopicY0 Object:
+  fields:
+    - name: Part I
+      type: string
+      description: Will present recent result from the project TRACE. Show integration of components for effective innovation and product evolution, covering multi-viewed description of CPS based on EAST-ADL, synthesis of both component contracts and the associated runtime services for lifecycle and quality management, anomaly treatment. Responsible Dejiu Chen. Timing 60.
+    - name: Part II 
+      type: string
+      description: Introduce Maritime Architecture Framework (MAF) and SPES Architecture Modelling. Initiate transfer of expertise in system design from automotive/avionic domain to maritime domain. Model- and component based design, design processes, architecture design along perspectives and abstraction levels for MAF & SPES. Responsible Ingo Stierand. Timing [30,60].
+
+
